@@ -1,5 +1,5 @@
 # incometaxfiler
-a application that should be able to file taxes just by using taxable income
+a application that should be able to calculate taxes just by using taxable income
 <br>
 <hr>
 <hr>
